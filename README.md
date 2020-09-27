@@ -1,19 +1,18 @@
-# MongoChat
+# chatApplication
 
-Simple chat app that uses MongoDB and Socket.io
+Simple chat app that uses MongoDB, Node.js and Socket.io
 
-### Version
-1.0.0
+## Pre-requisites:
+Node js
+Socket.io
+MongoDB (Compass and CLI)
 
 ## Install Dependencies
-```bash
-npm install 
-```
+npm install
 
 ## Run Server
-```bash
 npm start
-```
 
 ## Run App
 Open index.html
+Make two or more instances depending on number of users.
