@@ -1,3 +1,5 @@
+#### * also refer to README.txt for Terminal code help for setting up and exporting csv/json chatlogs * ####
+
 # chatApplication
 
 Simple chat app that uses MongoDB, Node.js and Socket.io
